@@ -1,0 +1,40 @@
+.container {
+  background-color: #92C7CF;
+  border-radius: 8px;
+  margin: auto;
+  max-width: 400px;
+  text-align: left;
+  padding: 20px;
+}
+
+.container h2 {
+  color: #333;
+}
+
+.form-group {
+  margin: 0px;
+}
+
+.form-label {
+  color: #333;
+}
+
+.form-control {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #b5c0d0;
+  border-radius: 4px;
+}
+
+.btn-primary {
+  background-color: #E5E1DA;
+  color: #333;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background-color: #FBF9F1;
+}
